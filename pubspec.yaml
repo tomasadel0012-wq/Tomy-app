@@ -1,5 +1,5 @@
 name: tomy_app
-description: "A Flutter-based real-time location tracking and member management application."
+description: "A Flutter-based real-time location tracking and member management application with weather dashboard."
 
 publish_to: 'none'
 
@@ -14,6 +14,8 @@ dependencies:
   flutter_map: ^6.0.0
   latlong2: ^0.9.0
   geolocator: ^9.0.0
+  http: ^1.1.0
+  intl: ^0.19.0
   cupertino_icons: ^1.0.2
 
 dev_dependencies:
